@@ -1,0 +1,24 @@
+/* This is a helper class to add some modification to style */
+/*
+colors
+pink - #EE3696
+red - #C90D00
+blue - #56BAEC
+green - #35B729
+black - #000000
+
+*/
+
+.secondary-nav {
+  border-top: 3px solid #000 !important;
+  border-bottom: 3px solid #000 !important;
+}
+
+.secondary-nav a {
+  font-size: 1.5rem;
+  color: #000;
+}
+
+.secondary-nav .active {
+  color: #EE3696;
+}
